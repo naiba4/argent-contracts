@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - truffle-flatten > lodash:
+        patched: '2024-04-22T14:54:56.383Z'
+        id: SNYK-JS-LODASH-567746
+        path: truffle-flatten > lodash
