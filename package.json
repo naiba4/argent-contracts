@@ -68,7 +68,7 @@
     "aws-sdk": "^2.814.0",
     "child_process": "^1.0.2",
     "ethereumjs-wallet": "^1.0.1",
-    "ethers": "^5.0.23",
+    "ethers": "^6.0.0",
     "fs": "0.0.1-security",
     "inquirer": "^7.0.0",
     "node-fetch": "^2.6.7",
