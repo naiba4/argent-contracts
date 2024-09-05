@@ -70,7 +70,7 @@
     "ethereumjs-wallet": "^1.0.1",
     "ethers": "^5.0.23",
     "fs": "0.0.1-security",
-    "inquirer": "^7.0.0",
+    "inquirer": "^9.0.0",
     "node-fetch": "^2.6.7",
     "openzeppelin-solidity": "3.4.0",
     "semver": "^7.1.3",
